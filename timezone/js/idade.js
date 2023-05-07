@@ -26,7 +26,7 @@ function bidade() {
 }
 
 function carregaJovem() {
-    let url = 'images/';    
+    let url = 'images/Novo.jpeg';    
     let img = new Image(350,330);
     img.src = url;    
 
@@ -34,7 +34,7 @@ function carregaJovem() {
 }
 
 function carregaIdoso() {
-    let url = 'images/';    
+    let url = 'images/Idoso.jpeg';    
     let img = new Image(350,330);
     img.src = url;    
 
@@ -42,7 +42,7 @@ function carregaIdoso() {
 }
 
 function carregaBebe() {
-    let url = 'images/';    
+    let url = 'images/Bebe.jpeg';    
     let img = new Image(350,330);
     img.src = url;    
 
